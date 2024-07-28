@@ -1,4 +1,4 @@
-Job :
+Job (App1):
     - title
     - location
     - job type
@@ -15,7 +15,7 @@ Job :
         - apply job
         - post job
 
-Blog :
+Blog (App2):
     - title
     - description
     - created_at
@@ -28,9 +28,9 @@ Blog :
         - comment
         - recent posts
 
-Contact
-Home
-Login
+Contact (App3)
+Home (App4)
+Login (App5)
 
 
 
