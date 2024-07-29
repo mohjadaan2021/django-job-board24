@@ -34,3 +34,5 @@ Login (App5)
 
 
 
+static files : [fronend] images , css , javascript
+media files : [upload] images          used by end users 
